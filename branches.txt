@@ -1,1 +1,3 @@
-It is some text
+It same text add 
+is some text
+Text -3
