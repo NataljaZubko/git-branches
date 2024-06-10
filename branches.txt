@@ -1,3 +1,6 @@
 It same text add 
-is some text
 Text -3
+
+Test text 1
+Test text 2
+
